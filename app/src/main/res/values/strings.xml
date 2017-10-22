@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChangeActivityByIntent</string>
+    <string name="gotoact2">Go to act 2</string>
+    <string name="h1act1">Activity 1</string>
+    <string name="h1act2">Activity 2</string>
+    <string name="gotoact1">Go to act 1</string>
+</resources>
